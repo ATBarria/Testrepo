@@ -1,1 +1,1 @@
-here some text about SQL ^a902a0
+here some text about SQL... ^f34a37
