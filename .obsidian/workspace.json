@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Design/UX and UI.md",
+                "file": "Tools/Git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f81bbeb3ac3d0299",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tools/Git.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Design/UX and UI.md",
+                "file": "Tools/Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Design/UX and UI.md",
+                "file": "Tools/Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Design/UX and UI.md"
+                "file": "Tools/Git.md"
               }
             }
           }
@@ -136,17 +149,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "80ef91990ad5a45c",
+  "active": "f81bbeb3ac3d0299",
   "lastOpenFiles": [
+    "Git game.md",
+    "Tools/Git.md",
     "Basics of Web Development.md",
     "Design/UX and UI.md",
-    "Pyton.md",
-    "Languages/HTML/HTML.md",
-    "Languages/Markdown/Markdown.md",
-    "Languages/CSS/CSS.md",
-    "Languages/SQL/SQL.md",
+    "Tools/Visual Studio Code.md",
+    "Tools/Figma.md",
     "Tools/Comand Line.md",
-    "Languages/Typescript/Typescript.md",
-    "Languages/NodeJS/NodeJS.md"
+    "Languages/CSS/CSS.md",
+    "Pyton.md",
+    "Languages/HTML/HTML.md"
   ]
 }
